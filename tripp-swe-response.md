@@ -1,4 +1,5 @@
-# SWE Opinion Piece Reading
+# SWE Opinion Piece Reading 
+### Eden Tripp
 
 ---
 
@@ -15,7 +16,7 @@ In the article Bogost mentions the importance of degrees and certifications for 
 Software engineering, however, often doesn't have the same standards.  I agree with in that lack of certification fosters a weary accountability black hole in that not all software engineers may have the same training.  Software systems failing can be just as dangerous as a bridge falling and thus software engineers must be held to the same standards as the other branches of engineers.
 
 ## Hesitations about his article
-1. Bogost compares failures inn software with dangers in more concrete structures such as bridges and missile defense systems.  In this section of the article it seems unfair that he is picking and choosing failures to compare. Unlike structural catastrophes, many software defects are reversible and non-fatal, eg. being stuck in a company elevator or your car not starting.   Society has evolved to a point where certain engineering flaws are tolerated (recalls, outages, accidents) shouldn't we judge software failures in the same manner? In my view, every field of engineering carries risk; so long as those risks are managed, edge cases anticipated, and remedies in place, we should judge them by the same standard.
+1. Bogost compares failures in software with dangers in more concrete structures such as bridges and missile defense systems.  In this section of the article it seems unfair that he is picking and choosing failures to compare. Unlike structural catastrophes, many software defects are reversible and non-fatal, eg. being stuck in a company elevator or your car not starting.   Society has evolved to a point where certain engineering flaws are tolerated (recalls, outages, accidents) shouldn't we judge software failures in the same manner? In my view, every field of engineering carries risk; so long as those risks are managed, edge cases anticipated, and remedies in place, we should judge them by the same standard.
 
 2. *[Counterpoint 2]* — *[your reasoning]*
 
